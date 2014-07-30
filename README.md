@@ -1,5 +1,4 @@
 #usage :
-usage : <br>
 ##1.  install imagemagick <br>
 ##2.  export.sh inputdir outputdir widthxheight<br>
 ##example :<br>
