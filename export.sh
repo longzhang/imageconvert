@@ -3,7 +3,7 @@
 input_dir=$1
 out_put_dir=$2
 size=$3
-png_inputs=`find $input_dir -name "*.png"`
+png_inputs=`find $input_dir -name "*.png" -o -name "*.jpg" -o -name "*.gif"`
 for path in $png_inputs
 do 
     dir=${path%/*}
