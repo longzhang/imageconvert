@@ -1,6 +1,6 @@
 #usage :
 ##1.  install imagemagick <br>
-     imagemagick: http://www.imagemagick.org <br>
+imagemagick: http://www.imagemagick.org <br>
 ##2.  export.sh inputdir outputdir widthxheight<br>
 ##example :<br>
 
