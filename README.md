@@ -1,7 +1,7 @@
 #usage :
 ##1.  install imagemagick <br>
- brew install imagemagick
- apt-get install imagemagick
+ brew install imagemagick <br>
+ apt-get install imagemagick <br>
  imagemagick: http://www.imagemagick.org <br>
 ##2.  export.sh inputdir outputdir widthxheight<br>
 ##example :<br>
